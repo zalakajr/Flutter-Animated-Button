@@ -1,16 +1,20 @@
-# animated_container
+# Flutter Animated Button
 
-A new Flutter project.
+A Flutter project showcasing smooth and customizable animations for UI components. This project features an animated button interaction with expanding, collapsing, and text transitions, ideal for enhancing user interfaces in Flutter applications.
+
+## Features
+- Animated expanding and collapsing buttons.
+- Smooth text transitions with sliding effects.
+- Easily customizable animation durations and curves.
+- Lightweight and responsive design.
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/zalakajr/Flutter-Animated-Button.git
