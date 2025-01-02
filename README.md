@@ -17,4 +17,4 @@ A Flutter project showcasing smooth and customizable animations for UI component
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/animated-ui-playground.git
+   git clone https://github.com/zalakajr/Flutter-Animated-Button.git
